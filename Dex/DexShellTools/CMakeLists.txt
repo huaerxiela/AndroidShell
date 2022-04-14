@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.12)
 project(DexShellTools)
 
-set(CMAKE_CXX_STANDARD 98)
+set(OPENCV_CXX11 ON)
 
 INCLUDE_DIRECTORIES(/usr/local/opt/openssl/include)
 

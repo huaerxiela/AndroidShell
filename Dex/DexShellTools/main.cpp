@@ -2,8 +2,13 @@
 #include <stdio.h>
 #include <string.h>
 #include <zlib.h>
+#include <openssl/sha.h>
+#include <openssl/crypto.h>
+
+/* 
 #include "/usr/local/opt/openssl/include/openssl/sha.h"
 #include "/usr/local/opt/openssl/include/openssl/crypto.h"
+*/
 
 #include "Dex.h"
 

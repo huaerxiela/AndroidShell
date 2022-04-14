@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/hexl/code/android_projects/AndroidShell/Dex/DexShellTools/Dex.h
+
+/home/hexl/code/android_projects/AndroidShell/Dex/DexShellTools/main.cpp
+iostream
+-
+stdio.h
+-
+string.h
+-
+zlib.h
+-
+openssl/sha.h
+-
+openssl/crypto.h
+-
+/usr/local/opt/openssl/include/openssl/sha.h
+-
+/usr/local/opt/openssl/include/openssl/crypto.h
+-
+Dex.h
+/home/hexl/code/android_projects/AndroidShell/Dex/DexShellTools/Dex.h
+

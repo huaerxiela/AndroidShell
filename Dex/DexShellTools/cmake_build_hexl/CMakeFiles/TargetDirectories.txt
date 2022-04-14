@@ -1,0 +1,3 @@
+/home/hexl/code/android_projects/AndroidShell/Dex/DexShellTools/cmake_build_hexl/CMakeFiles/rebuild_cache.dir
+/home/hexl/code/android_projects/AndroidShell/Dex/DexShellTools/cmake_build_hexl/CMakeFiles/edit_cache.dir
+/home/hexl/code/android_projects/AndroidShell/Dex/DexShellTools/cmake_build_hexl/CMakeFiles/DexShellTools.dir
